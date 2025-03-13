@@ -20,5 +20,5 @@ Shared Memory war die komplexeste Implementierung, während Sockets als moderne 
 ## 📚 Literaturverweise
 - Verschiedene technische Dokumentationen und Online-Ressourcen (z. B. Stack Overflow, Linux Man Pages)
 
-##Victor Gandsha (1393033)
-##Abgabe: 27.06.2022
+## Victor Gandsha (1393033)
+## Abgabe: 27.06.2022
