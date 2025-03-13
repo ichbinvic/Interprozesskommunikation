@@ -3,7 +3,6 @@
 Diese Dokumentation beschreibt die Implementierung eines Echtzeitsystems mit vier Prozessen, die über verschiedene Methoden kommunizieren und sich synchronisieren.
 
 ## 📌 Kernaspekte
-- **Prozessverwaltung**: Erstellung und Identifizierung von Prozessen mit `fork()`.
 - **Kommunikationsmethoden**:
   - **Pipes**: Einfache Datenweitergabe zwischen Prozessen.
   - **Message Queues**: Nachrichtenbasiertes Kommunikationssystem.
@@ -20,3 +19,6 @@ Shared Memory war die komplexeste Implementierung, während Sockets als moderne 
 
 ## 📚 Literaturverweise
 - Verschiedene technische Dokumentationen und Online-Ressourcen (z. B. Stack Overflow, Linux Man Pages)
+
+Victor Gandsha (1393033)
+Abgabe: 27.06.2022
